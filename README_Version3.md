@@ -61,11 +61,11 @@ Passionate and dedicated full-stack developer with a commitment to crafting eleg
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-
-| zuba-online-marketplace | Full-featured online marketplace system for buying and selling goods with integrated payment and inventory management | PHP | | CodeMateRwa | Collaborative coding platform enabling developers to work together, share code, and build projects collectively | PHP, HTML | 
+| zuba-online-marketplace | Full-featured online marketplace system for buying and selling goods with integrated payment and inventory management | PHP |
+| CodeMateRwa | Collaborative coding platform enabling developers to work together, share code, and build projects collectively | PHP, HTML |
 | pinnacle-goods | Modern e-commerce platform with responsive design and seamless user experience for product discovery and purchasing | JavaScript |
 | school-management-ecosystem | A comprehensive school management system designed to streamline administrative operations, student records, and educational workflows | PHP, CSS, JavaScript |
-| AGRI-MARKETPLACE-SYSTEM | Agricultural marketplace platform connecting farmers and buyers, enabling efficient trading of agricultural products | PHP, HTML, Hack | 
+| AGRI-MARKETPLACE-SYSTEM | Agricultural marketplace platform connecting farmers and buyers, enabling efficient trading of agricultural products | PHP, HTML, Hack |
 ---
 
 ## 🎯 What I'm Focused On
