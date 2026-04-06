@@ -90,8 +90,8 @@ Passionate and dedicated full-stack developer with a commitment to crafting eleg
 
 [![Website](https://img.shields.io/badge/Website-irakozeolivier.rw-00D9FF?style=for-the-badge&logo=globe)](https://irakozeolivier.rw)
 [![Email](https://img.shields.io/badge/Email-irakozeolivier2023@gmail.com-FF6B6B?style=for-the-badge&logo=gmail)](mailto:irakozeolivier2023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/irakozejuniorolievier](https://www.linkedin.com/in/oliprodev/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/irakozeolivier](https://x.com/Olipro5k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oliprodev/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Olipro5k)
 
 </div>
 
