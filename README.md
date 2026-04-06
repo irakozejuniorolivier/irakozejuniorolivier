@@ -47,9 +47,9 @@ Passionate and dedicated full-stack developer with a commitment to crafting eleg
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakozejuniorolivier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakozejuniorolivier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irakozejuniorolivier&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irakozejuniorolivier&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
@@ -116,7 +116,7 @@ Check out my repositories below to see what I'm working on! 👇
 
 ⭐ If you find my work interesting, consider starring my repositories!
 
-[![Visitors](https://visitcount.itsvg.in/api?id=irakozejuniorolievier&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://visitcount.itsvg.in/api?id=irakozejuniorolivier&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
