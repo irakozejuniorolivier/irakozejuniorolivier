@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irakoz
+# 👋 Hi, I'm Irakoze
 
 **Full Stack Developer | Open Source Enthusiast | Tech Innovator**
 
