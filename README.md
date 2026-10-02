@@ -110,64 +110,7 @@ Developed a marketplace bridging farmers and customers.
 
 ---
 
-## 🎯 What I’m Doing Now
 
-* Building production-ready systems
-* Improving backend architecture & scalability
-* Preparing for real-world engineering roles
 
----
-
-## 🌐 Portfolio Website (Build This Next)
-
-## Structure
-
-### 1. Hero Section
-
-* Name + tagline
-* Strong statement: “I build scalable systems”
-* CTA: View Projects / Contact
-
-### 2. Projects Section
-
-Each project = case study card
-
-* Problem
-* Solution
-* Impact (metrics)
-* Live demo button
-
-### 3. Skills Section
-
-Clean categorized stack
-
-### 4. About Section
-
-Short, sharp — no fluff
-
-### 5. Contact Section
-
-Simple + direct
-
----
-
-## ⚡ Tech Stack for Portfolio
-
-* React (Vite)
-* Tailwind CSS
-* Framer Motion (animations)
-* Deployment: Vercel
-
----
-
-## 🧠 Final Note
-
-Most developers show code.
-
-Serious developers show:
-
-* impact
-* thinking
-* results
 
 This is the difference.
