@@ -1,4 +1,4 @@
-# 👋 Irakoze Olivier
+# 👋 Irakoze Junior Olivier
 
 ### software engineer 
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Live Projects (Proof > Talk)
+## 🚀 Live Projects 
 
 
 ### 🌐 Zuba Online Marketplace
