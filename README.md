@@ -1,31 +1,13 @@
 # 👋 Irakoze Olivier
 
-### Full Stack Developer • Systems Builder • Problem Solver
+### software engineer 
 
-> I build systems that don’t just run — they perform, scale, and deliver value.
+> I build systems that  perform, scale, and deliver value.
 
 ---
 
 ## 🚀 Live Projects (Proof > Talk)
 
-### 🛒 Pinnacle Goods
-
-
-**Code:** [https://github.com/irakozejuniorolivier/pinnacle-goods](https://github.com/irakozejuniorolivier/pinnacle-goods)
-
-**Problem**
-Small online sellers struggle with slow, clunky platforms and poor UX.
-
-**Solution**
-Built a modern e-commerce platform with optimized frontend rendering and structured backend APIs.
-
-**Impact**
-
-* ⚡ 40% faster page load (optimized assets + lazy loading)
-* 🛒 Improved product discovery with structured filtering
-* 📱 Fully responsive across devices
-
----
 
 ### 🌐 Zuba Online Marketplace
 
@@ -62,6 +44,24 @@ Created a lightweight collaboration platform for sharing and editing code.
 * 🤝 Enables collaborative workflows
 * ⚡ Fast interaction with minimal UI friction
 * 🧠 Encourages peer learning
+
+---
+### 🛒 Pinnacle Goods
+
+
+**Code:** [https://github.com/irakozejuniorolivier/pinnacle-goods](https://github.com/irakozejuniorolivier/pinnacle-goods)
+
+**Problem**
+Small online sellers struggle with slow, clunky platforms and poor UX.
+
+**Solution**
+Built a modern e-commerce platform with optimized frontend rendering and structured backend APIs.
+
+**Impact**
+
+* ⚡ 40% faster page load (optimized assets + lazy loading)
+* 🛒 Improved product discovery with structured filtering
+* 📱 Fully responsive across devices
 
 ---
 
